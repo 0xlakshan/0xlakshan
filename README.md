@@ -1,7 +1,4 @@
 Hi 👋 My name is Lakshan Perera
-===============================
-
-Software Engineer
 -----------------
 
 * 🌍  I'm based in Colombo
