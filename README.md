@@ -1,4 +1,4 @@
-Hi 👋 My name is Lakshan Perera
+Hi 👋 I'm Lakshan Perera
 -----------------
 
 * 🌍  I'm based in Colombo
@@ -42,9 +42,3 @@ Hi 👋 My name is Lakshan Perera
     </a>
   
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/0xluckycoder"><img src="https://github-readme-stats.vercel.app/api?username=0xluckycoder&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="0xluckycoder's GitHub stats" /></a>
