@@ -1,9 +1,9 @@
 Hi 👋 I'm Lakshan Perera
 -----------------
 
-* 🌍  I'm based in Colombo
-* 🚀 Open to remote opportunities
-* ✉️  You can contact me at [lakshanperera.dev@gmail.com](mailto:lakshanperera.dev@gmail.com)
+* I'm based in Colombo
+* Open to remote opportunities
+* You can contact me at [lakshanperera.dev@gmail.com](mailto:lakshanperera.dev@gmail.com)
 
 ### Skills
 
