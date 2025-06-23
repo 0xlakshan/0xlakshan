@@ -1,4 +1,4 @@
-Hi 👋 I'm Lakshan Perera
+Hi 👋 I'm [Lakshan Perera](https://github.com/0xlakshan)
 -----------------
 
 * I'm based in Colombo
