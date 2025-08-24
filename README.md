@@ -7,5 +7,5 @@ Hi 👋 I'm [Lakshan Perera](https://github.com/0xlakshan)
 
 #### OSS Contributions
 * https://github.com/nodejs/userland-migrations/pull/166 - Added support for rmdir imports with aliases
-* https://github.com/nodejs/userland-migrations/pull/168 - Made sure require calls are detected even when wrapped
+* https://github.com/nodejs/userland-migrations/pull/168 - Implemented support for detecting member expression require nodes
 * https://github.com/colinhacks/zod/pull/4306 - Added debugging support with tsx runtime
