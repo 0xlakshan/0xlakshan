@@ -8,6 +8,7 @@ If you're interested in collaborating, email is the best way to reach me i check
 
 #### OSS Contributions
 * https://github.com/vercel/ai/pull/9437 - Introduced embedding model middleware for centralized embedding customization
+* https://github.com/vercel/ai/pull/10232 - Migrate from unsupported Gemini models and drop outdated functionality
 * https://github.com/TanStack/db/pull/551 - Added select option to extract items while preserving metadata
 * https://github.com/nodejs/userland-migrations/pull/166 - Added support for rmdir imports with aliases
 * https://github.com/nodejs/userland-migrations/pull/168 - Implemented support for detecting member expression require nodes
