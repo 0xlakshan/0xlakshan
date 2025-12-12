@@ -13,3 +13,4 @@ If you're interested in collaborating, email is the best way to reach me i check
 * https://github.com/nodejs/userland-migrations/pull/166 - Added support for rmdir imports with aliases
 * https://github.com/nodejs/userland-migrations/pull/168 - Implemented support for detecting member expression require nodes
 * https://github.com/colinhacks/zod/pull/4306 - Added debugging support with tsx runtime
+* https://github.com/codemod/codemod/pull/1895 - Next.js update for CVE-2025-67779
