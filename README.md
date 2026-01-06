@@ -1,6 +1,6 @@
 Hi 👋 I'm [Lakshan Perera](https://0xlakshan.github.io)
 -----------------
-AI Engineer from Sri Lanka. I spend most of my time building & contributing to open source tools like [ai-sdk](https://github.com/vercel/ai) and [gemini-cli](https://github.com/google-gemini/gemini-cli), mainly focused on improving the developer experience around AI. 
+AI Engineer from Sri Lanka. I spend most of my time building & contributing to open source orgs like [vercel](https://github.com/vercel) and [google](https://github.com/google), mainly focused on improving the developer experience around AI. 
 
 You can find my main personal projects below they explore some unique areas that haven’t really been solved yet and could make the dev experience a lot better. 
 
