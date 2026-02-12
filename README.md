@@ -8,6 +8,7 @@ If you're interested in collaborating, email is the best way to reach me i check
 
 #### OSS Contributions
 * https://github.com/vercel/ai/pull/9437 - Introduced embedding model middleware for centralized embedding customization
+* https://github.com/vercel/ai/pull/11934 - Added support for embeddingTypes in cohere embeddings
 * https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/729 - Allow opting out of default Chrome launch arguments
 * https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/748 - Support `resize_page` when browser window is maximized
 * https://github.com/TanStack/db/pull/551 - Added select option to extract items while preserving metadata
