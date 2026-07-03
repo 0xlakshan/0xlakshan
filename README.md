@@ -1,10 +1,14 @@
 Hi 👋 I'm [Lakshan Perera](https://0xlakshan.github.io)
 -----------------
-Programmer from Sri Lanka. I spend most of my time building & contributing to open source orgs like [vercel](https://github.com/vercel) and [google](https://github.com/google), mainly focused on improving the developer experience around AI. 
 
-You can find my main personal projects below they explore some unique areas that haven’t really been solved yet and could make the dev experience a lot better. 
+Cybersecurity researcher from Sri Lanka, focused on application security and vulnerability research. I spend most of my time reverse engineering modern infrastructure, analyzing complex code flows, and discovering novel attack vectors.
+
+Before getting into security, I was an active open source contributor, mainly with organizations like  [vercel](https://github.com/vercel) and [google](https://github.com/google), building developer tooling and improving the developer experience. That engineering background continues to shape how I approach vulnerability research, helping me understand complex systems from the inside out.
 
 If you're interested in collaborating, email is the best way to reach me i check it pretty often [lakshanperera.dev@gmail.com](mailto:lakshanperera.dev@gmail.com).
+
+#### Responsible Disclosures
+._To be published after receiving permission from the affected organizations_. 🚧
 
 #### OSS Contributions
 * https://github.com/vercel/ai/pull/9437 - Introduced embedding model middleware for centralized embedding customization
