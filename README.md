@@ -1,7 +1,7 @@
 Hi 👋 I'm [Lakshan Perera](https://0xlakshan.github.io)
 -----------------
 
-Cybersecurity researcher from Sri Lanka, focused on application security and vulnerability research. I spend most of my time reverse engineering modern infrastructure, analyzing complex code flows, and discovering novel attack vectors.
+Cybersecurity Researcher from Sri Lanka, focused on application security and vulnerability research. I spend most of my time reverse engineering modern infrastructure, analyzing  code flows, and discovering novel attack vectors.
 
 Before getting into security, I was an active open source contributor, mainly with organizations like  [vercel](https://github.com/vercel) and [google](https://github.com/google), building developer tooling and improving the developer experience. That engineering background continues to shape how I approach vulnerability research, helping me understand complex systems from the inside out.
 
